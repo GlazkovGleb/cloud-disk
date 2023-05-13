@@ -1,0 +1,7 @@
+{
+    "serverPort": 5000,
+    "DdUrl": "mongodb://127.0.0.1:27017/cloudDisk",
+    "secretKey": "cloudDisk-secretKey",
+    "filesPath": "C:\\Users\\Gleb Glazkov\\Desktop\\NodeJS\\cloud-disk\\server\\files",
+    "staticPath": "C:\\Users\\Gleb Glazkov\\Desktop\\NodeJS\\cloud-disk\\server\\static"
+}
